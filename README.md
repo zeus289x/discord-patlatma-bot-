@@ -1,1 +1,2 @@
-# discord-patlatma-bot-
+# Kurulum
+beyler öncelikle dosyayı indirin zipten çıkarın 289.py dosyasını açın patlatma botunuzun tokenini girin komutu kullancak adminleri girin manipule icin koruma komutu var kullaninca oylesine sunucu korundu mesaji atar bunu hedef sunucuya guard botu diye atabilirsiniz... 
